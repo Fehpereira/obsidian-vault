@@ -11,10 +11,14 @@
             "id": "20504b2c5845dd51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Java/3. Entendendo e tratando as Exceptions.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "3. Entendendo e tratando as Exceptions"
             }
           }
         ]
@@ -164,19 +168,21 @@
   },
   "active": "20504b2c5845dd51",
   "lastOpenFiles": [
-    "Sem título.base",
-    "Sem título.canvas",
+    "Pasted image 20250826203242.png",
+    "Pasted image 20250826203108.png",
+    "Java/3. Entendendo e tratando as Exceptions.md",
+    "Java/Prints/Pasted image 20250825224646.png",
     "Java/2. Programação Orientada a Objetos.md",
-    "Java/Prints/Pasted image 20250822105957.png",
-    "Java/Prints/Pasted image 20250825221505.png",
-    "Java/Prints/Pasted image 20250825220302.png",
-    "Java/Prints/Pasted image 20250825220246.png",
-    "Java/Prints/Pasted image 20250825220035.png",
-    "Java/Prints/Pasted image 20250825215834.png",
-    "Java/Prints/Pasted image 20250825213808.png",
-    "Java/Prints/Pasted image 20250825205202.png",
-    "Java/Prints/Pasted image 20250825205131.png",
-    "Java/Prints/Pasted image 20250825205100.png",
+    "Java/Prints/Pasted image 20250826111121.png",
+    "Java/Prints/Pasted image 20250826111005.png",
+    "Java/Prints/Pasted image 20250826110957.png",
+    "Java/Prints/Pasted image 20250826110800.png",
+    "Java/Prints/Pasted image 20250826110539.png",
+    "Java/Prints/Pasted image 20250826105540.png",
+    "Java/Prints/Pasted image 20250826105342.png",
+    "Java/Prints/Pasted image 20250826105255.png",
+    "Sem título.canvas",
+    "Sem título.base",
     "Java/1. Iniciando com a linguagem.md",
     "Origamid/Next/1. Fundamentos.md",
     "Origamid/Next",
@@ -206,7 +212,6 @@
     "CursoJS/Javascript módulo D/1. Condições.md",
     "Rocketseat/CSS/4. Margin - Padding.md",
     "Origamid/React com TypeScript/3. Hooks TSX.md",
-    "Rocketseat 2/Trilha FullStack/JavaScript Avançado/3. Arrays avançado.md",
     "Youtube",
     "Rocketseat 2/Trilha FullStack/React",
     "NLW/Prints"
