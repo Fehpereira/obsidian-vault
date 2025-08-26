@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "9cdc31263264c9f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e404b6f759d2c36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20504b2c5845dd51",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "581d119d8d6b1d61",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6f64b64380549ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d6818d277e474d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "5df2b5688c4024e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "ee7172cc5ed8e198",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 218.50260543823242
+  },
+  "right": {
+    "id": "6d4a516b3a571b6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "be6bdeb1e2ff3c94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb2a47f2af694276",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d2e05bb74ff7f94e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "c06ce5fdf1094c79",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "505845243c1a7617",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Criar nova base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "20504b2c5845dd51",
+  "lastOpenFiles": [
+    "Sem título.base",
+    "Sem título.canvas",
+    "Java/2. Programação Orientada a Objetos.md",
+    "Java/Prints/Pasted image 20250822105957.png",
+    "Java/Prints/Pasted image 20250825221505.png",
+    "Java/Prints/Pasted image 20250825220302.png",
+    "Java/Prints/Pasted image 20250825220246.png",
+    "Java/Prints/Pasted image 20250825220035.png",
+    "Java/Prints/Pasted image 20250825215834.png",
+    "Java/Prints/Pasted image 20250825213808.png",
+    "Java/Prints/Pasted image 20250825205202.png",
+    "Java/Prints/Pasted image 20250825205131.png",
+    "Java/Prints/Pasted image 20250825205100.png",
+    "Java/1. Iniciando com a linguagem.md",
+    "Origamid/Next/1. Fundamentos.md",
+    "Origamid/Next",
+    "Rocketseat 2/Ignite/Next/1. Next.md",
+    "Java/Prints",
+    "Rocketseat 2/Prints/Prints Next",
+    "Rocketseat 2/Ignite/Next",
+    "Java/Introdução à linguagem Java/Sem título.md",
+    "Java/Introdução à linguagem Java",
+    "Java",
+    "Rocketseat 2/Ignite/Node.js/5. Node.js com SOLID.md",
+    "Rocketseat 2/Trilha FullStack/Node.js/2. API REST com Node.js.md",
+    "Rocketseat 2/Trilha FullStack/Node.js/1. Fundamentos do Node.js.md",
+    "Rocketseat 2/Trilha FullStack/Node.js v2/1. API de entregas de encomendas.md",
+    "Rocketseat 2/Ignite/React/4. PizzaShop.md",
+    "Rocketseat 2/Ignite/Node.js/4. Criando API REST com Node.js.md",
+    "Rocketseat 2/Ignite/React/3. DT Money.md",
+    "Rocketseat 2/Ignite/React/2 Ignite Timer.md",
+    "Rocketseat 2/Ignite/React/1 Iniciando com React.md",
+    "Rocketseat 2/Trilha FullStack/Node.js v2/4. API do APP Refund.md",
+    "Rocketseat 2/Trilha FullStack/Node.js/9. Testes Automatizados.md",
+    "Rocketseat 2/Trilha FullStack/React/5. Requisições HTTP e API.md",
+    "Origamid/React/04 Formulários.md",
+    "Origamid/React/03 Hooks.md",
+    "Rocketseat 2/Trilha FullStack/React/3. Formúlarios em React.md",
+    "Rocketseat 2/Trilha FullStack/React/4. Tailwind CSS.md",
+    "CursoJS/Javascript módulo D/1. Condições.md",
+    "Rocketseat/CSS/4. Margin - Padding.md",
+    "Origamid/React com TypeScript/3. Hooks TSX.md",
+    "Rocketseat 2/Trilha FullStack/JavaScript Avançado/3. Arrays avançado.md",
+    "Youtube",
+    "Rocketseat 2/Trilha FullStack/React",
+    "NLW/Prints"
+  ]
+}

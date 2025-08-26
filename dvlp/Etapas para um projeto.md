@@ -1,0 +1,10 @@
+- Configurar ambiente de desenvolvimento;
+- Instalar dependências;
+- Fazer deploy;
+- Criar pasta components;
+- Criar os componentes de rotas;
+- Definir apenas um titúlo para componentes de rotas e importá-los ao App;
+- Fazer teste criando as Routes;
+- Criar o html correto para cada componente;
+- Estilizar tudo;
+- Começar a dar vida ao projeto;

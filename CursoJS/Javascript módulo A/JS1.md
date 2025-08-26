@@ -1,0 +1,1 @@
+Hoje eu vou aprender um pouco mais sobre JS, e aqui vão ficar minhas anotações :)
