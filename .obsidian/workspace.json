@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2e404b6f759d2c36",
+        "id": "31b163c6c24cc7a1",
         "type": "tabs",
         "children": [
           {
-            "id": "20504b2c5845dd51",
+            "id": "aa39317e68cfb88c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/3. Entendendo e tratando as Exceptions.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3. Entendendo e tratando as Exceptions"
+              "title": "Nova aba"
             }
           }
         ]
@@ -166,25 +162,32 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "20504b2c5845dd51",
+  "active": "9d6818d277e474d6",
   "lastOpenFiles": [
-    "Pasted image 20250826203242.png",
-    "Pasted image 20250826203108.png",
-    "Java/3. Entendendo e tratando as Exceptions.md",
-    "Java/Prints/Pasted image 20250825224646.png",
+    "Origamid/Prints/Pasted image 20250830113126.png",
+    "Origamid/Prints/Pasted image 20250830110722.png",
+    "Origamid/Prints/Pasted image 20250830110215.png",
+    "Origamid/Prints/Pasted image 20250830082420.png",
+    "Origamid/Next/2. Fetch e Cache.md",
+    "Origamid/Prints/Pasted image 20250830113500.png",
+    "Java/Prints/Pasted image 20250829095522.png",
+    "Java/Prints/Pasted image 20250829110657.png",
+    "Java/Prints/Pasted image 20250829100423.png",
+    "Java/Prints/Pasted image 20250829095725.png",
+    "Java/6. PRINCIPAIS Novidades até o JAVA 21.md",
+    "Java/Prints/Pasted image 20250829110440.png",
+    "Java/5. Começando a programar em Java.md",
+    "Origamid/Next/1. Fundamentos.md",
+    "E2E/1. E2E Live Rocketseat.md",
+    "Origamid/JavaScript/03 OBJETOS.md",
+    "Origamid/JavaScript/02 DOM.md",
+    "Origamid/JavaScript/01 JavaScript Para Iniciantes.md",
+    "Java/1. Iniciando com a linguagem.md",
     "Java/2. Programação Orientada a Objetos.md",
-    "Java/Prints/Pasted image 20250826111121.png",
-    "Java/Prints/Pasted image 20250826111005.png",
-    "Java/Prints/Pasted image 20250826110957.png",
-    "Java/Prints/Pasted image 20250826110800.png",
-    "Java/Prints/Pasted image 20250826110539.png",
-    "Java/Prints/Pasted image 20250826105540.png",
-    "Java/Prints/Pasted image 20250826105342.png",
-    "Java/Prints/Pasted image 20250826105255.png",
+    "Java/4. Organização de projetos com packages.md",
+    "Java/3. Entendendo e tratando as Exceptions.md",
     "Sem título.canvas",
     "Sem título.base",
-    "Java/1. Iniciando com a linguagem.md",
-    "Origamid/Next/1. Fundamentos.md",
     "Origamid/Next",
     "Rocketseat 2/Ignite/Next/1. Next.md",
     "Java/Prints",
@@ -204,14 +207,6 @@
     "Rocketseat 2/Ignite/React/1 Iniciando com React.md",
     "Rocketseat 2/Trilha FullStack/Node.js v2/4. API do APP Refund.md",
     "Rocketseat 2/Trilha FullStack/Node.js/9. Testes Automatizados.md",
-    "Rocketseat 2/Trilha FullStack/React/5. Requisições HTTP e API.md",
-    "Origamid/React/04 Formulários.md",
-    "Origamid/React/03 Hooks.md",
-    "Rocketseat 2/Trilha FullStack/React/3. Formúlarios em React.md",
-    "Rocketseat 2/Trilha FullStack/React/4. Tailwind CSS.md",
-    "CursoJS/Javascript módulo D/1. Condições.md",
-    "Rocketseat/CSS/4. Margin - Padding.md",
-    "Origamid/React com TypeScript/3. Hooks TSX.md",
     "Youtube",
     "Rocketseat 2/Trilha FullStack/React",
     "NLW/Prints"
