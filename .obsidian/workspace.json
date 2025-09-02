@@ -11,10 +11,12 @@
             "id": "aa39317e68cfb88c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "image",
+              "state": {
+                "file": "Origamid/Prints/Pasted image 20250901201015.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250901201015"
             }
           }
         ]
@@ -164,18 +166,18 @@
   },
   "active": "9d6818d277e474d6",
   "lastOpenFiles": [
+    "Origamid/Next/2. Fetch e Cache.md",
+    "Origamid/Prints/Pasted image 20250901204842.png",
+    "Origamid/Prints/Pasted image 20250901204752.png",
+    "Origamid/Prints/Pasted image 20250901202648.png",
+    "Origamid/Prints/Pasted image 20250901202514.png",
+    "Origamid/Prints/Pasted image 20250901202253.png",
+    "Origamid/Prints/Pasted image 20250901202240.png",
+    "Origamid/Prints/Pasted image 20250901201015.png",
     "Origamid/Prints/Pasted image 20250830113126.png",
     "Origamid/Prints/Pasted image 20250830110722.png",
     "Origamid/Prints/Pasted image 20250830110215.png",
-    "Origamid/Prints/Pasted image 20250830082420.png",
-    "Origamid/Next/2. Fetch e Cache.md",
-    "Origamid/Prints/Pasted image 20250830113500.png",
-    "Java/Prints/Pasted image 20250829095522.png",
-    "Java/Prints/Pasted image 20250829110657.png",
-    "Java/Prints/Pasted image 20250829100423.png",
-    "Java/Prints/Pasted image 20250829095725.png",
     "Java/6. PRINCIPAIS Novidades até o JAVA 21.md",
-    "Java/Prints/Pasted image 20250829110440.png",
     "Java/5. Começando a programar em Java.md",
     "Origamid/Next/1. Fundamentos.md",
     "E2E/1. E2E Live Rocketseat.md",
