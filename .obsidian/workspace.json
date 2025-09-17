@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "31b163c6c24cc7a1",
+        "id": "0f0b64a8aef8ca93",
         "type": "tabs",
         "children": [
           {
-            "id": "aa39317e68cfb88c",
+            "id": "534973f1746a53d3",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Origamid/Prints/Pasted image 20250901201015.png"
+                "file": "Java/Erudio/Prints/Pasted image 20250916234934.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250901201015"
+              "title": "Pasted image 20250916234934"
             }
           }
         ]
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.50260543823242
+    "width": 417.5026054382324
   },
   "right": {
     "id": "6d4a516b3a571b6a",
@@ -166,33 +166,38 @@
   },
   "active": "9d6818d277e474d6",
   "lastOpenFiles": [
+    "Java/Erudio/Prints",
+    "Java/Rasmoo/2. Programação Orientada a Objetos.md",
+    "Java/Rasmoo/3. Entendendo e tratando as Exceptions.md",
+    "Java/Erudio/1. Primeiros passo em spring boot.md",
+    "Java/Erudio/Prints/Pasted image 20250916235030.png",
+    "Java/Erudio/Prints/Pasted image 20250916235009.png",
+    "Java/Erudio/Prints/Pasted image 20250916234953.png",
+    "Java/Erudio/Prints/Pasted image 20250916234934.png",
+    "Java/Rasmoo/7. Java Lambda e Streams.md",
+    "Java/Rasmoo/1. Iniciando com a linguagem.md",
+    "Java/Rasmoo/Prints/Pasted image 20250915210457.png",
+    "Java/Rasmoo/Prints/Pasted image 20250915212937.png",
+    "Java/Rasmoo/Prints/Pasted image 20250915212535.png",
+    "Java/Rasmoo/Prints/Pasted image 20250915212443.png",
+    "Java/Rasmoo/Prints/Pasted image 20250915212206.png",
+    "Java/Rasmoo/Prints/Pasted image 20250915212130.png",
+    "Java/Erudio",
+    "Java/Rasmoo",
+    "Java/Rasmoo/6. PRINCIPAIS Novidades até o JAVA 21.md",
     "Origamid/Next/2. Fetch e Cache.md",
-    "Origamid/Prints/Pasted image 20250901204842.png",
-    "Origamid/Prints/Pasted image 20250901204752.png",
-    "Origamid/Prints/Pasted image 20250901202648.png",
-    "Origamid/Prints/Pasted image 20250901202514.png",
-    "Origamid/Prints/Pasted image 20250901202253.png",
-    "Origamid/Prints/Pasted image 20250901202240.png",
-    "Origamid/Prints/Pasted image 20250901201015.png",
-    "Origamid/Prints/Pasted image 20250830113126.png",
-    "Origamid/Prints/Pasted image 20250830110722.png",
-    "Origamid/Prints/Pasted image 20250830110215.png",
-    "Java/6. PRINCIPAIS Novidades até o JAVA 21.md",
-    "Java/5. Começando a programar em Java.md",
+    "Java/Rasmoo/5. Começando a programar em Java.md",
     "Origamid/Next/1. Fundamentos.md",
     "E2E/1. E2E Live Rocketseat.md",
     "Origamid/JavaScript/03 OBJETOS.md",
     "Origamid/JavaScript/02 DOM.md",
     "Origamid/JavaScript/01 JavaScript Para Iniciantes.md",
-    "Java/1. Iniciando com a linguagem.md",
-    "Java/2. Programação Orientada a Objetos.md",
-    "Java/4. Organização de projetos com packages.md",
-    "Java/3. Entendendo e tratando as Exceptions.md",
+    "Java/Rasmoo/4. Organização de projetos com packages.md",
     "Sem título.canvas",
     "Sem título.base",
     "Origamid/Next",
     "Rocketseat 2/Ignite/Next/1. Next.md",
-    "Java/Prints",
+    "Java/Rasmoo/Prints",
     "Rocketseat 2/Prints/Prints Next",
     "Rocketseat 2/Ignite/Next",
     "Java/Introdução à linguagem Java/Sem título.md",
@@ -207,10 +212,6 @@
     "Rocketseat 2/Ignite/React/3. DT Money.md",
     "Rocketseat 2/Ignite/React/2 Ignite Timer.md",
     "Rocketseat 2/Ignite/React/1 Iniciando com React.md",
-    "Rocketseat 2/Trilha FullStack/Node.js v2/4. API do APP Refund.md",
-    "Rocketseat 2/Trilha FullStack/Node.js/9. Testes Automatizados.md",
-    "Youtube",
-    "Rocketseat 2/Trilha FullStack/React",
-    "NLW/Prints"
+    "Youtube"
   ]
 }
